@@ -148,11 +148,7 @@ $this-> CSSgenerico();
                         }
 
 
-                        public function CambiarTexto() {
-
-
-
-                        }
+                       
                         
                         
 //                         public function Propiedades($nombretabla) {
