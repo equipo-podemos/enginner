@@ -1,0 +1,71 @@
+body{padding: 0;margin: 0;}
+.menu{
+flex-wrap: wrap;
+padding: 5px;
+display: flex;
+justify-content: space-between;}
+.imagen_titulo{
+    display: flex;
+   
+    
+}
+.imagen_titulo h5{
+    position: relative;
+    left: 20px;
+    top: 5px;
+    font-size: 30px;
+    margin: 0;
+    color: white;
+}
+.links{position: relative;bottom: 8px;}
+.menu img{width: 40px; margin-left: 20px;}
+a{
+position: relative;
+top: 25px;
+margin-right: 40px;
+text-decoration: none;}
+header{display: flex; justify-content: center;}
+h1{
+border: 20px solid white;
+background: white;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, italic;}
+.linea{
+position: relative;
+top: 60px;
+width: 300px;
+height: 2px;
+background: black;
+}
+section{
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;}
+.caja1,.caja2,.caja3{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+font-size: 13px;
+width: 400px;
+padding: 30px;
+}
+.caja3{font-size: 13px;}
+.caja2{font-size: 12px;}
+.caja1{font-size: 13px;}
+p{
+    font-size: 18px;
+}
+h4{
+position: relative;
+bottom: 0px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin: 0;
+font-size: 40px;}
+.texto{padding: 30px;height: 200px;}
+.boton_finalizar{
+background: #C7D7F8;
+padding: 30px;
+width: 100%;
+font-size: 30px;}
+.caja1 button ,.caja2 button, .caja3 button{
+    padding: 10px;
+    width: 140px;
+}
